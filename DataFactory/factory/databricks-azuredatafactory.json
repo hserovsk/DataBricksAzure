@@ -1,0 +1,9 @@
+{
+	"name": "databricks-azuredatafactory",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7fcb785a-ea62-49b5-a156-5166f34afe98",
+		"tenantId": "5ff42766-ef07-40fe-ba10-b8bcd01b9efb"
+	}
+}
