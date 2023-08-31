@@ -148,7 +148,7 @@
 				"type": "DatabricksNotebook",
 				"dependsOn": [
 					{
-						"activity": "Ingest Pit Stops File ",
+						"activity": "Ingest Pit Stops File",
 						"dependencyConditions": [
 							"Succeeded"
 						]
